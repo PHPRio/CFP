@@ -1,18 +1,14 @@
 <h1 align="center">Quero Palestrar!</h1>
 <p align="center">
-    Repositório de <i>palestrantes</i> e <i>propostas de palestras</i> para eventos de tecnologia.
+    Repositório de <i>palestrantes</i> e <i>propostas de palestras</i> para Meetups do PHPRio
 </p>
 <p align="center">
-    <a href="https://github.com/PHPRio/cpf/issues/new?template=palestrante_template.md">
-        <img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" />
-    </a>
-    <a href="https://github.com/PHPRio/cpf/issues/new">
-        <img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" />
-    </a>
+    <a href="https://github.com/PHPRio/cpf/issues/new?template=palestrante_template.md"><img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" /></a>&nbsp;
+    <a href="https://github.com/PHPRio/cpf/issues/new"><img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" /></a>
 </p>
 
 ---
-<h2 align="center">Temas</h2>
+<h2 align="center">Consulte</h2>
 <p align="center">
     <a href="#">
         Palestrantes
@@ -20,6 +16,23 @@
     <a href="#">
         Palestras
     </a>&nbsp;
+</p>
+
+<h2 align="center">Níveis</h2>
+<p align="center">
+    <a href="https://github.com/PHPRio/CFP/labels/iniciante">
+        Iniciante
+    </a>&nbsp;
+    <a href="https://github.com/PHPRio/CFP/labels/intermadi%C3%A1rio">
+        Intermediário
+    </a>&nbsp;
+    <a href="https://github.com/PHPRio/CFP/labels/avan%C3%A7ado">
+        Avançado
+    </a>&nbsp;
+</p>
+
+<h2 align="center">Temas</h2>
+<p align="center">
     <a href="https://github.com/PHPRio/CFP/labels/arquitetura">
         Arquitetura
     </a>&nbsp;
@@ -40,18 +53,6 @@
     </a>&nbsp;
     <a href="https://github.com/PHPRio/CFP/labels/testes">
         Testes
-    </a>&nbsp;
-</p>
-<h2 align="center">Níveis</h2>
-<p align="center">
-    <a href="https://github.com/PHPRio/CFP/labels/iniciante">
-        Iniciante
-    </a>&nbsp;
-    <a href="https://github.com/PHPRio/CFP/labels/intermadi%C3%A1rio">
-        Intermediário
-    </a>&nbsp;
-    <a href="https://github.com/PHPRio/CFP/labels/avan%C3%A7ado">
-        Avançado
     </a>&nbsp;
 </p>
 
