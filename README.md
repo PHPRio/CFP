@@ -3,10 +3,10 @@
     Repositório de <i>palestrantes</i> e <i>propostas de palestras</i> para eventos de tecnologia.
 </p>
 <p align="center">
-    <a href="issues/new?template=palestrante_template.md">
+    <a href="https://github.com/PHPRio/cpf/issues/new?template=palestrante_template.md">
         <img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" />
     </a>
-    <a href="issues/new">
+    <a href="https://github.com/PHPRio/cpf/issues/new">
         <img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" />
     </a>
 </p>
