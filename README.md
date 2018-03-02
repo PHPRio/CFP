@@ -58,7 +58,7 @@
 
 ---
 
-# Call for Papers para meetups do PHPRio
+# Call for Papers para Meetups do PHPRio
 
 A ideia deste repositório é permitir que palestrantes cadastrem suas **propostas de palestras** para serem apresentadas nos Meetups do grupo PHPRio, onde as pessoas interessadas poderão interagir e votar em suas preferidas.
 
