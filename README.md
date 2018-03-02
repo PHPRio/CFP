@@ -10,10 +10,10 @@
 ---
 <h2 align="center">Consulte</h2>
 <p align="center">
-    <a href="#">
+    <a href="https://github.com/PHPRio/cpf/issues?q=is%3Aissue+is%3Aopen+label%3APalestrantes">
         Palestrantes
     </a>&nbsp;
-    <a href="#">
+    <a href="https://github.com/PHPRio/cpf/issues?q=is%3Aissue+is%3Aopen+label%3APalestras">
         Palestras
     </a>&nbsp;
 </p>
