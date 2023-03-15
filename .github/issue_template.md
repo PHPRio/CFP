@@ -1,7 +1,7 @@
 Título: **Título descritivo e interessante**
 Palavras-chave: `keyword1`, `keyword2`, `keyword3`
 Nível: **básico**
-Palestrante: [**Nome Completo**](link da issue com dados do palestrante)
+Palestrante: [**Nome Completo**](link da issue com dados de palestrante)
 Descrição da palestra:
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
