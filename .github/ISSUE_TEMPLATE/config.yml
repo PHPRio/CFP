@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Quero Palestrar!"
+    url: https://github.com/PHPRio/cpf/issues/new?template=README.yml
+    about: >
+      Repositório de *palestrantes* e *propostas de palestras* para Meetups do PHPRio.
