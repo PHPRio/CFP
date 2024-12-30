@@ -1,0 +1,70 @@
+name: Submissão de Palestra
+description: Use este template para submeter uma palestra.
+title: "[PALESTRA] "
+labels: ["palestra"]
+assignees: []
+
+body:
+  - type: input
+    id: titulo
+    attributes:
+      label: Título
+      description: Título descritivo e interessante.
+      placeholder: "Título da palestra"
+      required: true
+
+  - type: input
+    id: palavras_chave
+    attributes:
+      label: Palavras-chave
+      description: Palavras-chave relacionadas à palestra.
+      placeholder: "keyword1, keyword2, keyword3"
+      required: true
+
+  - type: input
+    id: nivel
+    attributes:
+      label: Nível
+      description: Nível da palestra.
+      placeholder: "básico"
+      required: true
+
+  - type: input
+    id: palestrante
+    attributes:
+      label: Palestrante
+      description: Nome do palestrante com link para a issue criada com seus dados.
+      placeholder: "[Nome Completo](link da issue)"
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição da palestra
+      description: Uma descrição detalhada da palestra.
+      placeholder: "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
+      required: true
+
+  - type: input
+    id: slides
+    attributes:
+      label: Slides
+      description: Link para os slides publicados (opcional).
+      placeholder: "link para os slides"
+      required: false
+
+  - type: input
+    id: video
+    attributes:
+      label: Vídeo
+      description: Link para o vídeo publicado (opcional).
+      placeholder: "link para o vídeo"
+      required: false
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub
+      description: Link para o repositório do GitHub com exemplos (opcional).
+      placeholder: "link para repositório do GitHub"
+      required: false

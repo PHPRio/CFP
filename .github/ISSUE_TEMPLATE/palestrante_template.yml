@@ -1,0 +1,94 @@
+name: Palestrante
+description: Use este template para submeter informações de palestrante.
+title: "[PALESTRANTE] "
+labels: ["palestrante"]
+assignees: []
+
+body:
+  - type: input
+    id: nome
+    attributes:
+      label: Nome Completo
+      description: Seu nome completo.
+      placeholder: "Nome Completo"
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: E-mail
+      description: Seu e-mail.
+      placeholder: "usuario@empresa.com"
+      required: true
+
+  - type: input
+    id: cidade
+    attributes:
+      label: Cidade
+      description: Sua cidade e estado.
+      placeholder: "Rio de Janeiro - RJ"
+      required: true
+
+  - type: input
+    id: site
+    attributes:
+      label: Site e blog
+      description: Link para o seu site ou blog (opcional).
+      placeholder: "link para o site ou blog"
+      required: false
+
+  - type: input
+    id: facebook
+    attributes:
+      label: Facebook
+      description: Link para o seu perfil no Instagram (opcional).
+      placeholder: "https://www.instagram.com/usuario"
+      required: false
+
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter
+      description: Link para o seu perfil no X (opcional).
+      placeholder: "https://x.com/usuario"
+      required: false
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub
+      description: Link para o seu perfil no GitHub (opcional).
+      placeholder: "https://github.com/usuario"
+      required: false
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn
+      description: Link para o seu perfil no LinkedIn (opcional).
+      placeholder: "https://www.linkedin.com/in/usuario"
+      required: false
+
+  - type: input
+    id: speakerdeck
+    attributes:
+      label: SpeakerDeck e SlideShare
+      description: Link para o seu perfil no SpeakerDeck ou SlideShare (opcional).
+      placeholder: "https://speakerdeck.com/usuario"
+      required: false
+
+  - type: input
+    id: imagem
+    attributes:
+      label: Imagem
+      description: Link para a foto do palestrante.
+      placeholder: "link para a foto"
+      required: true
+
+  - type: textarea
+    id: biografia
+    attributes:
+      label: Biografia
+      description: Sua biografia.
+      placeholder: "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
+      required: false
