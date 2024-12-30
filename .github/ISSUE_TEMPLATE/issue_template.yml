@@ -10,8 +10,7 @@ body:
     attributes:
       label: Título
       description: Título descritivo e interessante.
-      placeholder: "Título da palestra"
-      required: false
+      placeholder: "Título da palestra"      
 
   - type: input
     id: palavras_chave
@@ -19,23 +18,20 @@ body:
       label: Palavras-chave
       description: Palavras-chave relacionadas à palestra.
       placeholder: "keyword1, keyword2, keyword3"
-      required: false
-
+      
   - type: input
     id: nivel
     attributes:
       label: Nível
       description: Nível da palestra.
       placeholder: "básico"
-      required: false
-
+      
   - type: input
     id: palestrante
     attributes:
       label: Palestrante
       description: Nome do palestrante com link para a issue criada com seus dados.
-      placeholder: "[Nome Completo](link da issue)"
-      required: false
+      placeholder: "[Nome Completo](link da issue)"      
 
   - type: textarea
     id: descricao
@@ -43,28 +39,24 @@ body:
       label: Descrição da palestra
       description: Uma descrição detalhada da palestra.
       placeholder: "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
-      required: false
-
+      
   - type: input
     id: slides
     attributes:
       label: Slides
       description: Link para os slides publicados (opcional).
-      placeholder: "link para os slides"
-      required: false
+      placeholder: "link para os slides"      
 
   - type: input
     id: video
     attributes:
       label: Vídeo
       description: Link para o vídeo publicado (opcional).
-      placeholder: "link para o vídeo"
-      required: false
+      placeholder: "link para o vídeo"      
 
   - type: input
     id: github
     attributes:
       label: GitHub
       description: Link para o repositório do GitHub com exemplos (opcional).
-      placeholder: "link para repositório do GitHub"
-      required: false
+      placeholder: "link para repositório do GitHub"      
