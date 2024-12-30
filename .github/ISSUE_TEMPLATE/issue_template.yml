@@ -11,7 +11,7 @@ body:
       label: Título
       description: Título descritivo e interessante.
       placeholder: "Título da palestra"
-      required: true
+      required: false
 
   - type: input
     id: palavras_chave
@@ -19,7 +19,7 @@ body:
       label: Palavras-chave
       description: Palavras-chave relacionadas à palestra.
       placeholder: "keyword1, keyword2, keyword3"
-      required: true
+      required: false
 
   - type: input
     id: nivel
@@ -27,7 +27,7 @@ body:
       label: Nível
       description: Nível da palestra.
       placeholder: "básico"
-      required: true
+      required: false
 
   - type: input
     id: palestrante
@@ -35,7 +35,7 @@ body:
       label: Palestrante
       description: Nome do palestrante com link para a issue criada com seus dados.
       placeholder: "[Nome Completo](link da issue)"
-      required: true
+      required: false
 
   - type: textarea
     id: descricao
@@ -43,7 +43,7 @@ body:
       label: Descrição da palestra
       description: Uma descrição detalhada da palestra.
       placeholder: "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
-      required: true
+      required: false
 
   - type: input
     id: slides
