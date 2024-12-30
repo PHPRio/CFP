@@ -11,7 +11,7 @@ body:
       label: Nome Completo
       description: Seu nome completo.
       placeholder: "Nome Completo"
-      required: true
+      #required: true
 
   - type: input
     id: email
@@ -19,7 +19,7 @@ body:
       label: E-mail
       description: Seu e-mail.
       placeholder: "usuario@empresa.com"
-      required: true
+      #required: true
 
   - type: input
     id: cidade
@@ -27,7 +27,7 @@ body:
       label: Cidade
       description: Sua cidade e estado.
       placeholder: "Rio de Janeiro - RJ"
-      required: true
+      #required: true
 
   - type: input
     id: site
@@ -35,7 +35,7 @@ body:
       label: Site e blog
       description: Link para o seu site ou blog (opcional).
       placeholder: "link para o site ou blog"
-      required: false
+      #required: false
 
   - type: input
     id: facebook
@@ -43,7 +43,7 @@ body:
       label: Facebook
       description: Link para o seu perfil no Instagram (opcional).
       placeholder: "https://www.instagram.com/usuario"
-      required: false
+      #required: false
 
   - type: input
     id: twitter
@@ -51,7 +51,7 @@ body:
       label: Twitter
       description: Link para o seu perfil no X (opcional).
       placeholder: "https://x.com/usuario"
-      required: false
+      #required: false
 
   - type: input
     id: github
@@ -59,7 +59,7 @@ body:
       label: GitHub
       description: Link para o seu perfil no GitHub (opcional).
       placeholder: "https://github.com/usuario"
-      required: false
+      #required: false
 
   - type: input
     id: linkedin
@@ -67,7 +67,7 @@ body:
       label: LinkedIn
       description: Link para o seu perfil no LinkedIn (opcional).
       placeholder: "https://www.linkedin.com/in/usuario"
-      required: false
+      #required: false
 
   - type: input
     id: speakerdeck
@@ -75,7 +75,7 @@ body:
       label: SpeakerDeck e SlideShare
       description: Link para o seu perfil no SpeakerDeck ou SlideShare (opcional).
       placeholder: "https://speakerdeck.com/usuario"
-      required: false
+      #required: false
 
   - type: input
     id: imagem
@@ -83,7 +83,7 @@ body:
       label: Imagem
       description: Link para a foto do palestrante.
       placeholder: "link para a foto"
-      required: true
+      #required: true
 
   - type: textarea
     id: biografia
@@ -91,4 +91,4 @@ body:
       label: Biografia
       description: Sua biografia.
       placeholder: "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
-      required: false
+      #required: false
