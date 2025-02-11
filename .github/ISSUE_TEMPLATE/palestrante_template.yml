@@ -1,0 +1,94 @@
+name: Palestrante
+description: Use este template para cadastrar informações do palestrante.
+labels: ["Palestrantes"]
+body:
+  - type: input
+    id: nome
+    attributes:
+      label: Nome Completo
+      description: Seu nome completo.
+      placeholder: "Nome Completo"
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: E-mail
+      description: Seu e-mail.
+      placeholder: "usuario@empresa.com"
+    validations:
+      required: true
+
+  - type: input
+    id: imagem
+    attributes:
+      label: Imagem
+      description: Link para a foto do palestrante.
+      placeholder: "link para a foto"
+    validations:
+      required: true
+
+  - type: textarea
+    id: biografia
+    attributes:
+      label: Biografia
+      description: Sua biografia.
+      placeholder: "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
+    validations:
+      required: true
+
+  - type: input
+    id: cidade
+    attributes:
+      label: Cidade
+      description: Sua cidade e estado.
+      placeholder: "Rio de Janeiro - RJ"
+    validations:
+      required: true
+
+  - type: input
+    id: site
+    attributes:
+      label: Site e blog
+      description: Link para o seu site ou blog (opcional).
+      placeholder: "link para o site ou blog"
+    validations:
+      required: false
+
+  - type: input
+    id: instagram
+    attributes:
+      label: Instagram
+      description: Link para o seu perfil no Instagram (opcional).
+      placeholder: "https://www.instagram.com/usuario"
+    validations:
+      required: false
+
+  - type: input
+    id: x
+    attributes:
+      label: X
+      description: Link para o seu perfil no X (opcional).
+      placeholder: "https://x.com/usuario"
+    validations:
+      required: false
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub
+      description: Link para o seu perfil no GitHub (opcional).
+      placeholder: "https://github.com/usuario"
+    validations:
+      required: false
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn
+      description: Link para o seu perfil no LinkedIn (opcional).
+      placeholder: "https://www.linkedin.com/in/usuario"
+    validations:
+      required: false
+      
